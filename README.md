@@ -3,7 +3,7 @@
 ![Ekran görüntüsü 2025-02-27 024759](https://github.com/user-attachments/assets/491c7e5d-ca57-4819-9eba-cf45abd6976e)
 ![Ekran görüntüsü 2025-02-27 024812](https://github.com/user-attachments/assets/1853f3a7-045e-4fe7-8896-82ea3bb960b7)
 
-Kullanım
+## Kullanım
 CSV dosyanızı yükleyin:
 
 “Browse files” veya “Drag and drop file here” bölümüne tıklayarak, içinde tarih, açılış, kapanış, yüksek, düşük ve hacim bilgileri gibi sütunlar barındıran bir CSV dosyası seçin.
@@ -11,7 +11,7 @@ Teknik Analiz:
 
 Uygulama otomatik olarak yüklenen veriyi okur ve seçili indikatörleri hesaplar.
 Sonuçları tablo ve grafikler halinde görüntüler.
-Tavsiyeler:
+## Tavsiyeler:
 
 Uygulama, hesaplanan indikatörlere dayanarak kısa bir yorum veya tavsiye mesajı görüntüler (ör. “SMA trend aşağı yönlü”, “RSI aşırı satım bölgesinde” gibi).
 Detaylı İnceleme:

@@ -19,15 +19,15 @@ Uygulama, hesaplanan indikatörlere dayanarak kısa bir yorum veya tavsiye mesaj
 
 ## Detaylı İnceleme:
 
-Bollinger Bands, ATR gibi volatilite ölçümleri.
-MACD grafiği, RSI grafiği vb. grafikler ile trend takibi.
-Teknik İndikatörler
-SMA (Simple Moving Average): Basit hareketli ortalama
-EMA (Exponential Moving Average): Üssel hareketli ortalama
-MACD (Moving Average Convergence Divergence): Hareketli ortalamalar arası yakınsama/ıraksama
-RSI (Relative Strength Index): Göreceli güç endeksi
-Bollinger Bands: Fiyat volatilitesini ölçmek için kullanılır
-ATR (Average True Range): Ortalama gerçek aralık (volatilite ölçümü)
+- Bollinger Bands, ATR gibi volatilite ölçümleri.
+- MACD grafiği, RSI grafiği vb. grafikler ile trend takibi.
+- Teknik İndikatörler
+- SMA (Simple Moving Average): Basit hareketli ortalama
+- EMA (Exponential Moving Average): Üssel hareketli ortalama
+- MACD (Moving Average Convergence Divergence): Hareketli ortalamalar arası yakınsama/ıraksama
+- RSI (Relative Strength Index): Göreceli güç endeksi
+- Bollinger Bands: Fiyat volatilitesini ölçmek için kullanılır
+- ATR (Average True Range): Ortalama gerçek aralık (volatilite ölçümü)
 
 
 ## **Sorumluluk Reddi**

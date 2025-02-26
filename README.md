@@ -7,14 +7,17 @@
 CSV dosyanızı yükleyin:
 
 “Browse files” veya “Drag and drop file here” bölümüne tıklayarak, içinde tarih, açılış, kapanış, yüksek, düşük ve hacim bilgileri gibi sütunlar barındıran bir CSV dosyası seçin.
-Teknik Analiz:
+
+## Teknik Analiz:
 
 Uygulama otomatik olarak yüklenen veriyi okur ve seçili indikatörleri hesaplar.
 Sonuçları tablo ve grafikler halinde görüntüler.
+
 ## Tavsiyeler:
 
 Uygulama, hesaplanan indikatörlere dayanarak kısa bir yorum veya tavsiye mesajı görüntüler (ör. “SMA trend aşağı yönlü”, “RSI aşırı satım bölgesinde” gibi).
-Detaylı İnceleme:
+
+## Detaylı İnceleme:
 
 Bollinger Bands, ATR gibi volatilite ölçümleri.
 MACD grafiği, RSI grafiği vb. grafikler ile trend takibi.
